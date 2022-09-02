@@ -66,6 +66,18 @@ nav
     border-radius: 3px;
 }
 
+.nav__tile:hover
+{
+    background-color: #275e77;
+    border: 5px solid #33a9d8;
+}
+
+.nav__tile:active
+{
+    background-color: #275e77;
+    border: 5px solid #33a9d8;
+}
+
 main
 {
     grid-column: 6 / 13;
